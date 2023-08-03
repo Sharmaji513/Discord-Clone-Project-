@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Double+Pica&family=Noto+Sans:wght@700;900&family=Roboto:wght@100;300;400&family=Sacramento&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
